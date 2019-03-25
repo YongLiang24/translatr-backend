@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source_text: MyString
+  source_language: MyString
+  output_text: MyString
+  output_language: MyString
+
+two:
+  source_text: MyString
+  source_language: MyString
+  output_text: MyString
+  output_language: MyString
